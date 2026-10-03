@@ -16,9 +16,13 @@ DX TECHIES is an AI-powered crowd monitoring project submitted to the **Smart In
 
 ## Team & Credits
 
+> **Note:** The team members below contributed to **DX TECHIES only**. Their contributions should not be attributed to the separate **ANOMALY-DETECTION** project.
+
 ### Mohammad Areeb
 **Role:** Basic Structure Building  
 **Contribution:** Built the basic structure and foundation of the DX TECHIES project.
+
+**LinkedIn:** https://www.linkedin.com/in/mohammad-areeb-bb1aa7385/
 
 ### Anant Mishra
 **Role:** Team Lead / Project Coordination  
