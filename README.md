@@ -4,9 +4,8 @@
 
 - **GitHub Pages:** https://ayushkushwaha020.github.io/DX_TECHIES/
 - **Render Backup:** https://dx-techies.onrender.com
-- **GitHub Repository:** https://github.com/ayushkushwaha020/DX_TECHIES
 
-DX TECHIES is an AI-powered crowd monitoring project submitted to the **Smart India Hackathon (SIH) Ideas** initiative and selected among the **500 ideas** considered under the initiative.
+DX TECHIES is an AI-powered crowd monitoring project submitted to the **Smart India Hackathon (SIH) Ideas** initiative and included in the **500-idea pool**.
 
 ### SIH Idea Details
 
@@ -14,9 +13,11 @@ DX TECHIES is an AI-powered crowd monitoring project submitted to the **Smart In
 - **Submission:** SIH Ideas
 - **Selection Pool:** 500 ideas
 
-## Team & Credits
+## Project
 
-> **Note:** The team members below contributed to **DX TECHIES only**. Their contributions should not be attributed to the separate **ANOMALY-DETECTION** project.
+The system is designed for crowd monitoring using surveillance/drone-based inputs and AI-assisted detection to help identify crowd conditions and support situational awareness.
+
+## Team & Credits
 
 ### Mohammad Areeb
 **Role:** Basic Structure Building  
@@ -30,13 +31,6 @@ DX TECHIES is an AI-powered crowd monitoring project submitted to the **Smart In
 
 **LinkedIn:** https://www.linkedin.com/in/anant-mishra-b6246a375/
 
-### Ayush Kushwaha
-**Role:** Idea & Technical Development  
-**Contribution:** Developed the core idea, worked on improvements, deployment, and the remaining technical/project work.
-
-**GitHub:** https://github.com/ayushkushwaha020  
-**LinkedIn:** https://www.linkedin.com/in/ayush-kushwaha-08aa58387
-
 ---
 
-**DX TECHIES Team:** Mohammad Areeb · Anant Mishra · Ayush Kushwaha
+**DX TECHIES Team:** Mohammad Areeb · Anant Mishra
